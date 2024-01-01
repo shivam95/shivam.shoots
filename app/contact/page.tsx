@@ -22,7 +22,7 @@ const socials = [
 		icon: <Mail size={20} />,
 		href: "mailto:info@shivam.shoots.xyz",
 		label: "Email",
-		handle: "dev@chronark.com",
+		handle: "info@shivam.shoots.xyz",
 	},
 	
 ];

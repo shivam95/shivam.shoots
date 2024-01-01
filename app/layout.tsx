@@ -9,16 +9,16 @@ export const metadata: Metadata = {
     default: "shivam.shoots",
     template: "%s | shivam.shoots",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Photographer",
   openGraph: {
-    title: "shovam.shoots.xyz",
+    title: "shivam.shoots.xyz",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://shovam.shoots.xyz",
-    siteName: "shovam.shoots.xyz",
+      "Landscape",
+    url: "https://shivam.shoots.xyz",
+    siteName: "shivam.shoots.xyz",
     images: [
       {
-        url: "https://shovam.shoots.xyz/og.png",
+        url: "https://shivam.shoots.xyz/og.png",
         width: 1920,
         height: 1080,
       },
