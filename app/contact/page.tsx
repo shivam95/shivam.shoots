@@ -9,8 +9,8 @@ const socials = [
 	{
 		icon: <Instagram size={20} />,
 		href: "https://www.instagram.com/shivam.shoots/",
-		label: "Github",
-		handle: "chronark",
+		label: "Instagram",
+		handle: "@shivam.shoots",
 	},
 	{
 		icon: <Twitter size={20} />,
